@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👨🏻‍💻 Nycolas Magrin
 
-<!--
-**NycolasMTA/NycolasMTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me chamo Nycolas Magrin, tenho 18 anos e sou natural de Campinas. Concluí o ensino médio com formação técnica em Desenvolvimento de Sistemas pela Network. Atualmente, atuo no desenvolvimento de aplicações, buscando sempre aprimorar minhas habilidades e aprender novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções inovadoras. Utilizo o GitHub para compartilhar meus projetos, estudos e minha evolução na área de programação. Meu objetivo é continuar crescendo como desenvolvedor e contribuir cada vez mais para a comunidade.
+
+---
+
+### 🚀 Linguagens e Tecnologias
+
+<div align="center">
+<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="FastAPI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+<img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<table align="center">
+  <tr>
+    <td>
+      <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=NycolasMTA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    </td>
+    <td>
+      <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasMTA&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-nyckjr.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyckjr.dev/) [![GitHub](https://img.shields.io/badge/GitHub-NycolasMTA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NycolasMTA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nycolas%20Magrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+
+</div>
