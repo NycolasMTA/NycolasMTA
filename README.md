@@ -23,18 +23,9 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções ino
 
 ---
 
-### 📊 Estatísticas
-
-<table align="center">
-  <tr>
-    <td>
-      <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=NycolasMTA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td>
-      <img alt="Top Langs" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasMTA&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NycolasMTA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -42,6 +33,6 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções ino
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-nyckjr.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyckjr.dev/) [![GitHub](https://img.shields.io/badge/GitHub-NycolasMTA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NycolasMTA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nycolas%20Magrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+[![Instagram](https://img.shields.io/badge/Instagram-nyckjr.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyckjr.dev/) [![GitHub](https://img.shields.io/badge/GitHub-NycolasMTA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NycolasMTA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nycolas%20Magrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-magrin-1069362aa/)
 
 </div>
