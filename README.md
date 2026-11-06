@@ -1,14 +1,14 @@
 # 👨🏻‍💻 Nycolas Magrin
 
-**`Desenvolvedor FullStack`**
+**`Full-Stack Developer`**
 
-Me chamo Nycolas Magrin, tenho 18 anos e sou natural de Campinas. Concluí o ensino médio com formação técnica em Desenvolvimento de Sistemas pela Network. Atualmente, atuo no desenvolvimento de aplicações, buscando sempre aprimorar minhas habilidades e aprender novas tecnologias.
+My name is Nycolas Magrin; I am 18 years old and originally from Campinas. I completed my high school education with a technical specialization in Systems Development at Network. Currently, I work in application development, always striving to refine my skills and learn new technologies.
 
-Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções inovadoras. Utilizo o GitHub para compartilhar meus projetos, estudos e minha evolução na área de programação. Meu objetivo é continuar crescendo como desenvolvedor e contribuir cada vez mais para a comunidade.
+I am passionate about technology, web development, and creating innovative solutions. I use GitHub to share my projects, studies, and my progress in the field of programming. My goal is to continue growing as a developer and to contribute increasingly more to the community.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 Languages ​​and Technologies
 
 <div align="center">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções ino
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Where to find me
 
 <div align="center">
 
